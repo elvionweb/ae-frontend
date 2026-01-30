@@ -2,10 +2,11 @@ import { motion } from "framer-motion";
 
 const images = [
   "/AE2.jpeg",
-  "/AE.jpeg",
+  "/AE10.jpeg",
+  "/AE7.jpeg",
   "/AE1.jpeg",
   "/AE4.jpeg",
-  "/AE10.jpeg",
+  
   "/AE8.jpeg",
 ];
 

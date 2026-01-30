@@ -9,7 +9,10 @@ export default function CoupleSection() {
         />
         <h3 className="mt-4 text-blue-600 text-2xl font-serif">Aihanuwa</h3>
         <p className="mt-2">
-          Aihanuwa Igharo, from Usen, is a dedicated nurse known for her warmth, and compassionate heart. Deeply rooted in family values and faith, she carries herself with love and humility, and her caring nature makes her a blessing to all who know her.
+          Aihanuwa Igharo, from Usen, is a dedicated nurse known for her warmth,
+          and compassionate heart. Deeply rooted in family values and faith, she
+          carries herself with love and humility, and her caring nature makes
+          her a blessing to all who know her.
         </p>
       </div>
       <div className="flex-1 text-center">
@@ -20,10 +23,10 @@ export default function CoupleSection() {
         />
         <h3 className="mt-4 text-blue-600 text-2xl font-serif">Emmanuel</h3>
         <p className="mt-2">
-          Emmanuel is kindhearted, thoughtful, and full of quiet strength. He
-          values faith, family, and purpose, and he believes that love is best
-          shown through consistency, care, and commitment. His calm nature and
-          steady heart make him a true partner and friend.
+          Emmanuel Omogiate from Orhiomwon is a general contractor who values
+          faith, family, and purpose. He believes that love is best shown
+          through consistency, care, and commitment. His calm nature and steady
+          heart make him a true partner and a trusted friend.
         </p>
       </div>
     </section>
