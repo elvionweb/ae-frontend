@@ -12,7 +12,7 @@ export default function StoryTimeline() {
     },
     {
       date: "Propose in 2025",
-      text: "With love, intention, and a heart full of certainty, I first shared my intention with her in November, when we visited my pastor together. Then, on the 4th of January, 2026, I made it official I asked her to be mine for life.",
+      text: "With love, intention, and a heart full of certainty, I first shared my intention with Aihanuwa in November, when we visited my pastor together. Then, on the 4th of January, 2026, I made it official I asked Aihanuwa to be mine for life and she said yes to forever with me.",
     },
     {
       date: "Getting Married in 2026",
