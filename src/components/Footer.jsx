@@ -3,7 +3,7 @@ import logos from "../assets/logos.jpg"; // Elvionweb logo
 import SocialShare from "./SocialShare";
 
 export default function Footer({
-  coupleNames = "Emmanuel & Aihanuwa",
+  coupleNames = "Aihanuwa & Emmanuel",
   hashtag = "#AihanuwaAndEmmanuelForever",
 }) {
   return (
