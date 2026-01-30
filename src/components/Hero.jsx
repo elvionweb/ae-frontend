@@ -15,7 +15,7 @@ export default function Hero() {
       >
         <motion.div className="relative z-10 text-center px-4">
           <motion.h1
-            className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-serif text-cyan-100 font-bold"
+            className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-serif text-white font-bold"
             initial={{ opacity: 0, y: -50 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1 }}
@@ -24,7 +24,7 @@ export default function Hero() {
           </motion.h1>
 
           <motion.p
-            className="mt-4 text-lg sm:text-xl md:text-2xl lg:text-3xl text-cyan-100"
+            className="mt-4 text-lg sm:text-xl md:text-2xl lg:text-3xl text-white"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ delay: 1, duration: 1 }}

@@ -1,16 +1,66 @@
-# React + Vite
+# 💍 Wedding Invitation and RSVP Website (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, elegant wedding website built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**.  
+It allows guests to view wedding details, submit RSVPs, leave love notes, and enjoy a smooth, responsive experience across all devices.
 
-Currently, two official plugins are available:
+This frontend is connected to a production-ready backend API for RSVP handling, love notes storage, and email notifications.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🎉 Beautiful hero section with animated text
+- ⏳ Live wedding countdown timer
+- 👩‍❤️‍👨 Couple introduction section
+- 🖼️ Responsive photo gallery
+- 💌 Love Notes (guest messages stored in database)
+- 📩 RSVP form with validation and confirmation
+- ⚡ Fast and smooth animations (Framer Motion)
+- 📱 Fully responsive (mobile, tablet, desktop)
+- 🔐 Secure API integration via environment variables
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **React** (UI library)
+- **Vite** (Fast build tool)
+- **Tailwind CSS** (Styling)
+- **Framer Motion** (Animations)
+- **Axios** (API requests)
+- **React Hook Form + Zod** (Form handling & validation)
+
+---
+
+## 📂 Project Structure
+
+```txt
+src/
+├── components/
+│   ├── Hero.jsx
+│   ├── Countdown.jsx
+│   ├── CoupleSection.jsx
+│   ├── Gallery.jsx
+│   ├── RSVPForm.jsx
+│   ├── LoveNotes.jsx
+│   └── Footer.jsx
+├── hooks/
+│   └── useCountdown.js
+├── lib/
+│   └── api.js
+├── assets/
+│   └── images
+├── App.jsx
+└── main.jsx
+```
+Author
+
+Elvionweb
+
+Ibhafidon Elvis Founder — Elvionweb
+
+🌐 Brand: Elvionweb
+
+💼 Full Stack Developer
+
+✉️ Open for freelance and collaborations
