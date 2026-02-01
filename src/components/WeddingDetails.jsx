@@ -21,7 +21,7 @@ export default function WeddingDetails() {
         <p>
           <strong className="text-blue-600">Venue:</strong> Church Wedding{" "}
           <br /> God intervention fire and deliverance <br /> ministry 34 Uyigye
-          Street off Medical <br /> Stores at 10:00AM Prompt
+          Street off Medical <br /> Stores at 10:00AM Prompt.
         </p>
         <p>
           <strong className="text-blue-600">Colors of the Day:</strong> Peach
