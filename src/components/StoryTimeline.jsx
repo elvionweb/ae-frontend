@@ -16,7 +16,7 @@ export default function StoryTimeline() {
     },
     {
       date: "Getting Married in 2026",
-      text: "On 21st February 2026, surrounded by family, friends, and the grace of God, Aihanuwa and Emmanuel will joyfully say “I do,” celebrating a love that was written with purpose and sealed to last a lifetime.",
+      text: "On 21st & 22nd February 2026, surrounded by family, friends, and the grace of God, Aihanuwa and Emmanuel will joyfully say “I do,” celebrating a love that was written with purpose and sealed to last a lifetime.",
     },
   ];
 

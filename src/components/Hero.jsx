@@ -29,7 +29,7 @@ export default function Hero() {
             animate={{ opacity: 1 }}
             transition={{ delay: 1, duration: 1 }}
           >
-            February 21, 2026
+            February 21 & 22, 2026
           </motion.p>
         </motion.div>
       </section>

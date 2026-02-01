@@ -13,7 +13,7 @@ export default function WeddingDetails() {
           their Children Aihanuwa Igharo & Emmanuel Omogiate
         </h1>
         <p>
-          <strong className="text-blue-600">Date:</strong> FEBRUARY 21, 2026
+          <strong className="text-blue-600">Date:</strong> FEBRUARY 21 & 22, 2026
         </p>
         <p>
           <strong className="text-blue-600">Time:</strong> 12:00 PM Prompt
