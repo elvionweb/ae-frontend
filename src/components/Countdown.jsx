@@ -37,7 +37,7 @@ export default function Countdown() {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
         >
-          <h2 className="text-3xl md:text-4xl font-serif mb-6">
+          <h2 className="text-xl md:text-4xl font-serif mb-1 md:mb-3 text-blue-700 font-semibold">
             Congratulations on your beautiful union!
           </h2>
           <p className="text-lg leading-relaxed text-gray-700">
